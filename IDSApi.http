@@ -1,0 +1,6 @@
+@IDSApi_HostAddress = https://api.idsdeliverytranscanadien.com
+
+GET {{IDSApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
